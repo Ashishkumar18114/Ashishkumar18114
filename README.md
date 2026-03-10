@@ -1,29 +1,134 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- AI based projects using Python and Machine Learning  <br>- Full Stack Web Development (React, Node.js)<br><br>👯 I’m looking to collaborate on  <br>- Open Source Projects  <br>- AI / Machine Learning Projects  <br>- Full Stack Web Applications<br><br>🤝 I’m looking for help with  <br>- Advanced Machine Learning models  <br>- Scalable backend architecture<br><br>🌱 I’m currently learning  <br>- Data Structures and Algorithms  <br>- Machine Learning  <br>- Next.js and Advanced React<br><br>💬 Ask me about  <br>- Python  <br>- Java  <br>- Data Structures & Algorithms  <br>- Web Development<br><br>⚡ Fun fact  <br>- I love building AI projects and solving coding problems on LeetCode.
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h3 align="center">🚀 Software Engineer | AI & Full Stack Developer</h3>
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashishkumar18114&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashishkumar18114&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumar18114&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashishkumar18114&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashishkumar18114&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;DSA+Problem+Solver" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashishkumar18114&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Ashishkumar18114">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+# 💫 About Me
+
+🔭 I’m currently working on
+• AI projects using **Python & Machine Learning**
+• **Full Stack Development** using React & Node.js
+
+👯 I’m looking to collaborate on
+• **Open Source Projects**
+• **AI / Machine Learning Applications**
+• **Full Stack Web Platforms**
+
+🤝 I’m looking for help with
+• Advanced **Machine Learning models**
+• **Scalable backend systems**
+
+🌱 I’m currently learning
+• **Data Structures & Algorithms**
+• **Machine Learning**
+• **Next.js & Advanced React**
+
+💬 Ask me about
+• Python
+• Java
+• Data Structures
+• Web Development
+
+⚡ Fun fact
+I love building AI tools and solving coding problems.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,mongodb,opencv,git,github,html,css,cloud"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 **AI Image Generator**
+Full-stack AI platform using OpenAI API, React, Node.js, MongoDB.
+
+🔹 **Emotion Detection App**
+Machine learning system that detects facial emotions using deep learning.
+
+🔹 **Driver Drowsiness Detection System**
+AI based safety system using OpenCV to detect driver fatigue.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashishkumar18114&show_icons=true&theme=radical"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishkumar18114&theme=radical"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumar18114&layout=compact&theme=radical"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashishkumar18114\&theme=react-dark)](https://github.com/Ashishkumar18114)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=Ashishkumar18114\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ashishkumar18114&color=blue&style=for-the-badge"/>
+</p>
+
+---
