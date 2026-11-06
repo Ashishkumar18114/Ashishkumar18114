@@ -1,92 +1,113 @@
+<!-- Profile README for github.com/Ashishkumar18114/Ashishkumar18114 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20ECE%20Engineer%20%7C%20Open%20Source%20Mentor&descAlignY=58&descSize=18" width="100%" alt="header" />
+
 <div align="center">
 
-[![Ashish Kumar: AI & Full-Stack Developer, final-year ECE student, GSSoC mentor, open to internships and 2027 roles.](assets/dashboard.svg)](https://github.com/Ashishkumar18114)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-integrated+web+apps;MERN+%7C+Flask+%7C+Python+%7C+TensorFlow;GSSoC+Open+Source+Mentor;Solving+problems+on+LeetCode)](https://github.com/Ashishkumar18114)
 
-[About](#about)  /  [Highlights](#highlights)  /  [Toolbox](#toolbox)  /  [Projects](#projects)  /  [Activity](#activity)  /  [Contact](#contact)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-2bb739285/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ashishkmr11293/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishkmr11293@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=Ashishkumar18114&label=Profile%20views&color=7B2FF7&style=flat-square)
+<a href="https://www.linkedin.com/in/ashish-kumar-2bb739285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/ashishkmr11293/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:ashishkmr11293@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Ashishkumar18114/portfolio"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
-### About
+---
 
-[![About me](assets/about.svg)](assets/about.svg)
+## 👨‍💻 About Me
 
-<details>
-<summary>More about what I do</summary>
+I'm a final-year **Electronics & Communication Engineering** student at **JSS Academy of Technical Education, Bangalore**, who loves putting ECE fundamentals and software together: AI-powered web apps, computer vision, and full-stack products that solve real problems.
 
-<br>
+- 🔭 Currently building **AI-integrated web applications** (Flask + React/Next.js + ML)
+- 🤝 **GSSoC 2026 Open Source Mentor**, helping contributors with React, Node.js, MongoDB and Git workflows
+- 🏆 Competing in **Teliport S4 (Tata Elxsi)** on Predictive Maintenance using NASA C-MAPSS data
+- 🌱 Sharpening **DSA** and going deeper into **Machine Learning** and **Next.js**
+- 💬 Ask me about **Python, Java, MERN, DSA, Computer Vision**
 
-I work across React and Next.js interfaces, Node.js and Flask APIs, and MongoDB data layers, and I bring in computer vision and ML (MediaPipe, TensorFlow, OpenCV) when a project needs it. My ECE background means I'm comfortable where software meets hardware, like sensors, ESP32 boards and edge inference.
+---
 
-- 🧑‍🏫 **GSSoC 2026 Open Source Mentor** (Web Dev / MERN): guiding contributors through issues, PRs and Git workflows
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| 🛡️ **Fraud Shield** | AI scam detector focused on "digital arrest" fraud: chat-based assessment, transcript risk scoring, and voice upload analysis | `Flask` `Gemini API` `Next.js` `Clerk` |
+| 😴 **[DrowseGuard](https://github.com/KUNDANIOS/drowsiness)** | Real-time driver drowsiness detection using EAR/MAR and head-nod signals, with an ESP32-CAM hardware stack | `MediaPipe` `Flask` `Python` `ESP32` |
+| 🎬 **Movie Ticket Booking** | Full-stack booking platform with live seat selection, auth, role-based access, payments and email confirmation | `React` `Node` `Express` `MongoDB` `Razorpay` |
+| 🙂 **Emotion Detection** | Facial emotion recognition using a transformer model trained on a Kaggle dataset, served via a Flask REST API | `Python` `Transformers` `Flask` |
+| 🏨 **[Hotel Booking System](https://github.com/Ashishkumar18114/Hotel-Booking-Management-System)** | Java-based hotel reservation management | `Java` |
+| 🏧 **[ATM Simulation](https://github.com/Ashishkumar18114/atm-simulation-system)** | PIN verification, balance check, deposit and withdrawal | `Java` |
+
+---
+
+## 💼 Experience
+
+- 🧑‍🏫 **GSSoC 2026 Open Source Mentor (Web Dev / MERN)**: guided contributors on issues, PRs and Git/GitHub workflows
 - ⚙️ **Backend Development Intern, SYNTECXHUB** (Nov–Dec 2025): APIs, databases and server-side logic
-- 💻 **Software Developer Intern, Yuga Yatra Retail** (Nov 2025–Jan 2026): web and mobile apps, UI/UX, e-commerce seller portal
+- 💻 **Software Developer Intern, Yuga Yatra Retail** (Nov 2025–Jan 2026): web and mobile apps, UI/UX, e-commerce seller portal work
 - 🏅 JP Morgan Software Engineering Job Simulation (Forage) · Oracle Certified Foundation Associate · Google Cloud Skill Badge (TensorFlow image classification)
 
-</details>
+---
 
-### Highlights
-
-| | |
-|---|---|
-| 🏆 **Teliport S4 (Tata Elxsi)** | Team entry for Case Study 1, Predictive Maintenance, using NASA C-MAPSS data |
-| 🛡️ **Fraud Shield** | AI scam detection for "digital arrest" fraud, with chat, transcript and voice analysis |
-| 😴 **DrowseGuard** | Academic project: real-time drowsiness detection with an ESP32-CAM hardware stack |
-| 🤝 **Open source** | GSSoC mentor helping contributors ship their first PRs |
-
-### Toolbox
-
-[![Toolbox: Python, Java, JavaScript, React, Next.js, Node.js, Express, Flask, MongoDB, TensorFlow, MediaPipe, OpenCV, Git and more.](assets/stack.svg)](assets/stack.svg)
-
-### Projects
-
-[![Fraud Shield: AI scam detector for digital arrest fraud](assets/repo-1.svg)](https://github.com/Ashishkumar18114?tab=repositories) [![DrowseGuard: driver drowsiness detection](assets/repo-2.svg)](https://github.com/KUNDANIOS/drowsiness)
-
-[![Movie Ticket Booking: MERN booking platform](assets/repo-3.svg)](https://github.com/Ashishkumar18114?tab=repositories) [![Emotion Detection: facial emotion recognition](assets/repo-4.svg)](https://github.com/Ashishkumar18114?tab=repositories)
-
-<details>
-<summary>More projects</summary>
-
-<br>
-
-- 🏨 [Hotel Booking Management System](https://github.com/Ashishkumar18114/Hotel-Booking-Management-System): Java hotel reservation management
-- 🏧 [ATM Simulation System](https://github.com/Ashishkumar18114/atm-simulation-system): PIN verification, balance check, deposit and withdrawal
-- 🛒 [Shopping Cart System](https://github.com/Ashishkumar18114/shopping-cart-system): Java, ArrayList and HashMap
-- 💰 [Payroll Management System](https://github.com/Ashishkumar18114/payroll-management-system): Java payroll management
-- 🌐 [Portfolio](https://github.com/Ashishkumar18114/portfolio): personal site in HTML
-
-</details>
-
-[See all public repositories](https://github.com/Ashishkumar18114?tab=repositories)
-
-### Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashishkumar18114&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumar18114&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashishkumar18114&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumar18114&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishkumar18114&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishkumar18114&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishkumar18114&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Contribution activity graph" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashishkumar18114&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashishkumar18114/Ashishkumar18114/output/github-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ashishkumar18114/Ashishkumar18114/output/github-snake.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishkumar18114&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="activity graph" width="100%" />
 
 </div>
 
-### Contact
+---
 
-**Have something worth building? Let's talk.**
+## 🏆 Trophies
 
-[LinkedIn](https://www.linkedin.com/in/ashish-kumar-2bb739285/) · [LeetCode](https://leetcode.com/u/ashishkmr11293/) · [Email](mailto:ashishkmr11293@gmail.com)
+<div align="center">
 
-`ASHISH KUMAR / BUILD. LEARN. REPEAT.`
+<img src="https://github-profile-trophy.vercel.app/?username=Ashishkumar18114&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake" width="100%" />
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ashishkumar18114&color=7B2FF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<sub>⭐ If something here helps you, drop a star. Always open to collaborating on open source and AI projects.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" width="100%" alt="footer" />
