@@ -1,4 +1,8 @@
-<img src="assets/header.svg" width="100%" alt="Ashish Kumar header" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/ASHISH%20KUMAR-Full--Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML-cc0000?style=for-the-badge&labelColor=7a0000" height="64" alt="Ashish Kumar | Full-Stack Developer | MERN | AI/ML" />
+
+</div>
 
 <div align="center">
 
@@ -92,6 +96,10 @@
 
 ---
 
-<img src="assets/footer.svg" width="100%" alt="footer" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILD.%20LEARN.%20REPEAT.-Thanks%20for%20visiting-cc0000?style=for-the-badge&labelColor=7a0000" alt="Build. Learn. Repeat." />
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashishkumar18114&color=cc0000&style=flat-square&label=Profile+Views)
