@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/ASHISH%20KUMAR-Full--Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML-cc0000?style=for-the-badge&labelColor=7a0000" height="64" alt="Ashish Kumar | Full-Stack Developer | MERN | AI/ML" />
+<img src="photo.png" width="170" alt="Ashish Kumar" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/ASHISH%20KUMAR-Full--Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML-cc0000?style=for-the-badge&labelColor=7a0000" height="64" alt="Ashish Kumar | Full-Stack Developer | MERN | AI/ML" />
 </div>
 
 <div align="center">
