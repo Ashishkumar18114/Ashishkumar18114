@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/Ashishkumar18114/Ashishkumar18114 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=200&section=header&text=Ashish%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20ECE%20Engineer%20%7C%20Open%20Source%20Mentor&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="assets/header.svg" width="100%" alt="Ashish Kumar header" />
 
 <div align="center">
 
@@ -110,4 +110,4 @@ I'm a final-year **Electronics & Communication Engineering** student at **JSS Ac
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="footer" />
